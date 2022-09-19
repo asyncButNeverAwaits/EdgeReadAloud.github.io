@@ -1,0 +1,19 @@
+{
+    "background_color": "#ffffff",
+    "description": "Use together with Microsoft Edge ReadAloud",
+    "dir": "ltr",
+    "display": "browser",
+    "name": "edgereadaloud.github",
+    "orientation": "any",
+    "scope": "/",
+    "short_name": "edgereadaloud.github",
+    "start_url": "/",
+    "theme_color": "#ffffff",
+    "icons": [
+      {
+        "src": "/images/favicon.svg",
+        "type": "image/x-icon",
+        "purpose": "maskable"
+      }
+    ]
+  }
