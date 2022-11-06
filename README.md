@@ -2,7 +2,7 @@
 Personal project. Use at your own risk, feature might break in future.
 
 # Why
-- Open a large-size text file in Microsoft Edge and listening with Read Aloud is laggy.
+- Open a large-size text file (e.g. book) in Microsoft Edge and listening with Read Aloud is laggy.
 - Finding out where I last left off is troublesome.
 
 # Feature
