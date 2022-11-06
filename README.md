@@ -11,7 +11,7 @@ Personal project. Use at your own risk, feature might break in future.
 - Autosave when Read Aloud stop reading
 - Personalisation settings (theme, font size, scroll position)
 - Save settings to github repository
-- PWA, able to add the website as shortcut to your mobile
+- PWA, able to add as shortcut to your mobile
 
 # Configuration
 ## Repository path
@@ -28,5 +28,11 @@ Refer GitHub Doc: [Creating a fine-grained personal access token
 Repository access -> `Only select repositories` -> Select your repository for progress and setting storage
 
 Permissions -> Repository permissions -> Contents -> Read and write
+
+Overview should show
+```
  Read access to metadata
  Read and Write access to code
+```
+
+Generate token and paste it.
