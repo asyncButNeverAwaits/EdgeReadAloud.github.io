@@ -21,6 +21,8 @@ Paste your repository path, for example:
 
 input `EdgeReadAloud/progress` for repository `https://github.com/EdgeReadAloud/progress`
 
+Create `progress.json` and `setting.json` in the repository.
+
 ## Personal Access Token
 Refer GitHub Doc: [Creating a fine-grained personal access token
 ](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token#creating-a-fine-grained-personal-access-token)
