@@ -1,3 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" height="480" width="640">
-  <path d="m0,123.63l238.88,-79.63l79.63,79.63l-238.88,0l0,79.63l0,0l238.88,79.63l-238.88,0l0,79.63l159.25,0l79.63,79.63l-318.5,-79.63l0,-238.88m318.5,-79.63l318.5,79.63l-159.25,0m-159.25,-79.63l79.63,79.63l0,0l0,0l0,318.5l0,0l79.63,-318.5l0,0l0,0" fill="#1e1e1e" id="svg_2" stroke="#000000" stroke-opacity="0"></path>
-</svg>
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+  <g class="layer">
+   <title>Layer 1</title>
+   <g class="layer" id="svg_1">
+    <path d="m0,0l0,500.00002l307.20002,0l0,-74.07404l-221.86668,0l0,-129.62967l153.60001,0l0,-74.07404l-153.60001,0l0,-129.62967l221.86668,0l0,-92.5926l-307.20002,0m290.13335,0l221.86668,0l0,92.5926l-119.46667,0l0,407.40741l-85.33334,0l0,-444.44447l0,0l0,-55.55554" fill="#ffffff" id="svg_2" stroke="#ffffff" stroke-opacity="0"/>
+   </g>
+  </g>
+ </svg>

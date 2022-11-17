@@ -1,6 +1,6 @@
 {
   "background_color": "#ffffff",
-  "description": "Use together with Microsoft Edge ReadAloud to listen to large text files.",
+  "description": "Use together with Microsoft Edge Read Aloud to listen to large text files.",
   "dir": "ltr",
   "display": "browser",
   "name": "edgereadaloud.github",
