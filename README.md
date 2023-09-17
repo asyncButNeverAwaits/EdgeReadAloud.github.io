@@ -1,4 +1,4 @@
-# Warning
+### Warning
 Personal project. Use at your own risk, feature might break in future.
 
 # Why
